@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDodgerBlue">#1E90FF</color>
+    <color name="colorDark">#000000</color>
+    <color name="hintColor">#D3D3D3</color>
+    <color name="addButton">#ee7415</color>
+    <color name="limeGreen">#00FF00</color>
+    <color name="midnightblue">#191970</color>
+    <color name="gray">#DCDCDC</color>
+    <color name="yellow">#FFFF00</color>
+</resources>
